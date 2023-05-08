@@ -1,9 +1,8 @@
 # epsg-server
 
-epsg-finder is a Geomage-2003 LTD website that lets its users the option to automatically take a picture of the location of their choosing and see
-multiple locations with a changing EPSG code
+epsg-finder is a Geomage-2003 LTD website that lets its users the option to automatically take a picture of the location of their choosing and see multiple locations with a changing EPSG code.
 
-How to use the Lat/Lng form: 
+How to use the Lat/Lng form:
 ► How to use it:
     1) Open the form.
     2) Enter the Latitude and Longtitude, and submit the form.
@@ -13,8 +12,8 @@ How to use the Lat/Lng form:
     1) On the map you will see a marker positioned according to the coordinates you entered.
 
 
-How to find EPSG code with XY and location: 
-► Properties: 
+How to find EPSG code with XY and location:
+► Properties:
     1) x: X coordinate you have.
     2) y: Y coordinate you have.
     3) location: click the locaion you know.
@@ -30,8 +29,8 @@ How to find EPSG code with XY and location:
     2) On the map you will see markers positioned according to the epsg codes in the table and the X Y you entered.
 
 
-The /generate function: 
-► Properties: 
+The /generate function:
+► Properties:
     1) epsg: epsg code of the coordinates incoming.
     2) x1: X coordinate of the first coordinate.
     3) y1: Y coordinate of the first coordinate.
@@ -55,8 +54,8 @@ The /generate function:
     }
 
 
-The /coordinates function: 
-► Properties: 
+The /coordinates function:
+► Properties:
     1) list: in this list you enter all the coordinates you want X coordinate and then Y coordinate.
 
 ► How to use it:
